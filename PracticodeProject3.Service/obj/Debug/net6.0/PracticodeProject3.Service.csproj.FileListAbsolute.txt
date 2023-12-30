@@ -1,0 +1,12 @@
+D:\Users\User\Desktop\פרקטיקוד\PracticodeProject3\PracticodeProject3.Service\bin\Debug\net6.0\PracticodeProject3.Service.deps.json
+D:\Users\User\Desktop\פרקטיקוד\PracticodeProject3\PracticodeProject3.Service\bin\Debug\net6.0\PracticodeProject3.Service.dll
+D:\Users\User\Desktop\פרקטיקוד\PracticodeProject3\PracticodeProject3.Service\bin\Debug\net6.0\PracticodeProject3.Service.pdb
+D:\Users\User\Desktop\פרקטיקוד\PracticodeProject3\PracticodeProject3.Service\obj\Debug\net6.0\PracticodeProject3.Service.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\פרקטיקוד\PracticodeProject3\PracticodeProject3.Service\obj\Debug\net6.0\PracticodeProject3.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\פרקטיקוד\PracticodeProject3\PracticodeProject3.Service\obj\Debug\net6.0\PracticodeProject3.Service.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\פרקטיקוד\PracticodeProject3\PracticodeProject3.Service\obj\Debug\net6.0\PracticodeProject3.Service.AssemblyInfo.cs
+D:\Users\User\Desktop\פרקטיקוד\PracticodeProject3\PracticodeProject3.Service\obj\Debug\net6.0\PracticodeProject3.Service.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\פרקטיקוד\PracticodeProject3\PracticodeProject3.Service\obj\Debug\net6.0\PracticodeProject3.Service.dll
+D:\Users\User\Desktop\פרקטיקוד\PracticodeProject3\PracticodeProject3.Service\obj\Debug\net6.0\refint\PracticodeProject3.Service.dll
+D:\Users\User\Desktop\פרקטיקוד\PracticodeProject3\PracticodeProject3.Service\obj\Debug\net6.0\PracticodeProject3.Service.pdb
+D:\Users\User\Desktop\פרקטיקוד\PracticodeProject3\PracticodeProject3.Service\obj\Debug\net6.0\ref\PracticodeProject3.Service.dll
